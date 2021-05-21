@@ -131,3 +131,70 @@ Requisitos Hyper-V:                        Extensiones de modo de monitor de VM:
 
 Fri 05/21/2021
 Fausto Panello
+Federico Brian Nealon
+
+Nombre de host:                            DESKTOP-3736PUE
+Nombre del sistema operativo:              Microsoft Windows 10 Pro
+Versi¢n del sistema operativo:             10.0.19041 N/D Compilaci¢n 19041
+Fabricante del sistema operativo:          Microsoft Corporation
+Configuraci¢n del sistema operativo:       Estaci¢n de trabajo independiente
+Tipo de compilaci¢n del sistema operativo: Multiprocessor Free
+Propiedad de:                              Federico
+Organizaci¢n registrada:                   
+Id. del producto:                          00331-10000-00001-AA324
+Fecha de instalaci¢n original:             05/12/2020, 5:08:35
+Tiempo de arranque del sistema:            21/05/2021, 8:30:42
+Fabricante del sistema:                    Gigabyte Technology Co., Ltd.
+Modelo el sistema:                         Z97X-Gaming 5
+Tipo de sistema:                           x64-based PC
+Procesador(es):                            1 Procesadores instalados.
+                                           [01]: Intel64 Family 6 Model 60 Stepping 3 GenuineIntel ~4001 Mhz
+Versi¢n del BIOS:                          American Megatrends Inc. F5, 30/05/2014
+Directorio de Windows:                     C:\WINDOWS
+Directorio de sistema:                     C:\WINDOWS\system32
+Dispositivo de arranque:                   \Device\HarddiskVolume1
+Configuraci¢n regional del sistema:        es-ar;Espa¤ol (Argentina)
+Idioma de entrada:                         es;Espa¤ol (tradicional)
+Zona horaria:                              (UTC-03:00) Ciudad de Buenos Aires
+Cantidad total de memoria f¡sica:          16.245 MB
+Memoria f¡sica disponible:                 11.338 MB
+Memoria virtual: tama¤o m ximo:            20.341 MB
+Memoria virtual: disponible:               12.902 MB
+Memoria virtual: en uso:                   7.439 MB
+Ubicaci¢n(es) de archivo de paginaci¢n:    C:\pagefile.sys
+Dominio:                                   WORKGROUP
+Servidor de inicio de sesi¢n:              \\DESKTOP-3736PUE
+Revisi¢n(es):                              8 revisi¢n(es) instaladas.
+                                           [01]: KB4601554
+                                           [02]: KB4577586
+                                           [03]: KB4580325
+                                           [04]: KB4586864
+                                           [05]: KB4593175
+                                           [06]: KB4598481
+                                           [07]: KB5003173
+                                           [08]: KB5003242
+Tarjeta(s) de red:                         3 Tarjetas de interfaz de red instaladas.
+                                           [01]: VirtualBox Host-Only Ethernet Adapter
+                                                 Nombre de conexi¢n: Ethernet 2
+                                                 DHCP habilitado:    No
+                                                 Direcciones IP
+                                                 [01]: 192.168.56.1
+                                                 [02]: fe80::f5fd:2085:aaec:96cc
+                                           [02]: Qualcomm Atheros AR9485 Wireless Network Adapter
+                                                 Nombre de conexi¢n: Wi-Fi
+                                                 Estado:             Medios desconectados
+                                           [03]: Killer E2200 Gigabit Ethernet Controller
+                                                 Nombre de conexi¢n: Ethernet
+                                                 DHCP habilitado:    S¡
+                                                 Servidor DHCP:      192.168.0.1
+                                                 Direcciones IP
+                                                 [01]: 192.168.0.3
+                                                 [02]: fe80::6c23:c9f:21eb:6165
+                                                 [03]: 2800:810:483:14a:894c:a091:573d:6453
+                                                 [04]: 2800:810:483:14a:6c23:c9f:21eb:6165
+                                                 [05]: 2800:810:483:14a::1001
+Requisitos Hyper-V:                        Extensiones de modo de monitor de VM: S¡
+                                           Se habilit¢ la virtualizaci¢n en el firmware: S¡
+                                           Traducci¢n de direcciones de segundo nivel: S¡
+                                           La prevenci¢n de ejecuci¢n de datos est  disponible: S¡
+vi., 21 de may. de 2021 11:50:37
