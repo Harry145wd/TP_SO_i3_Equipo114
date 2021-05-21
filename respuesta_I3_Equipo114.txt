@@ -1,0 +1,10 @@
+a-¿Como queda El master después de estos cambios?
+Queda con todos los archivos creados y modificados de todas las ramas
+
+b-¿Beta pudo ver todos los cambios que se realizaron?
+Si
+
+c-¿que debió hacer (todos los comandos) en el punto 5 para poder hacer el merge ?
+git checkout main
+git merge Panello -m"Punto 5 Merge Beta"
+git push
