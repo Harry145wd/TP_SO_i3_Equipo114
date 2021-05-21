@@ -1,40 +1,63 @@
+
+Nombre de host:                            LAPTOP-AKEAC98V
+Nombre del sistema operativo:              Microsoft Windows 10 Home Single Language
+Versi贸n del sistema operativo:             10.0.19042 N/D Compilaci贸n 19042
+Fabricante del sistema operativo:          Microsoft Corporation
+Configuraci贸n del sistema operativo:       Estaci贸n de trabajo independiente
+Tipo de compilaci贸n del sistema operativo: Multiprocessor Free
+Propiedad de:                              HP
+Organizaci贸n registrada:                   HP
+Id. del producto:                          00327-30530-56258-AAOEM
+Fecha de instalaci贸n original:             23/3/2021, 07:08:24
+Tiempo de arranque del sistema:            20/5/2021, 08:42:37
+Fabricante del sistema:                    HP
+Modelo el sistema:                         HP Pavilion Laptop 15-cd0xx
+Tipo de sistema:                           x64-based PC
+Procesador(es):                            1 Procesadores instalados.
+                                           [01]: AMD64 Family 21 Model 101 Stepping 1 AuthenticAMD ~2700 Mhz
+Versi贸n del BIOS:                          American Megatrends Inc. F.23, 30/3/2018
+Directorio de Windows:                     C:\WINDOWS
+Directorio de sistema:                     C:\WINDOWS\system32
+Dispositivo de arranque:                   \Device\HarddiskVolume1
+Configuraci贸n regional del sistema:        es-mx;Espa帽ol (M茅xico)
+Idioma de entrada:                         es-mx;Espa帽ol (M茅xico)
+Zona horaria:                              (UTC-03:00) Ciudad de Buenos Aires
+Cantidad total de memoria f铆sica:          15.831 MB
+Memoria f铆sica disponible:                 10.189 MB
+Memoria virtual: tama帽o m谩ximo:            15.831 MB
+Memoria virtual: disponible:               8.563 MB
+Memoria virtual: en uso:                   7.268 MB
+Ubicaci贸n(es) de archivo de paginaci贸n:    N/D
+Dominio:                                   WORKGROUP
+Servidor de inicio de sesi贸n:              \\LAPTOP-AKEAC98V
+Revisi贸n(es):                              5 revisi贸n(es) instaladas.
+                                           [01]: KB4601554
+                                           [02]: KB4562830
+                                           [03]: KB4580325
+                                           [04]: KB5003173
+                                           [05]: KB5003242
+Tarjeta(s) de red:                         3 Tarjetas de interfaz de red instaladas.
+                                           [01]: Realtek PCIe GbE Family Controller
+                                                 Nombre de conexi贸n: Ethernet
+                                                 Estado:             Medios desconectados
+                                           [02]: Realtek RTL8723DE 802.11b/g/n PCIe Adapter
+                                                 Nombre de conexi贸n: Wi-Fi
+                                                 DHCP habilitado:    S铆
+                                                 Servidor DHCP:      192.168.1.1
+                                                 Direcciones IP
+                                                 [01]: 192.168.1.42
+                                                 [02]: fe80::31ac:e183:9f86:b676
+                                                 [03]: 2802:8000:48d1:b400:1839:9651:a9b3:8674
+                                                 [04]: 2802:8000:48d1:b400:31ac:e183:9f86:b676
+                                           [03]: VirtualBox Host-Only Ethernet Adapter
+                                                 Nombre de conexi贸n: Ethernet 4
+                                                 DHCP habilitado:    No
+                                                 Direcciones IP
+                                                 [01]: 192.168.56.1
+                                                 [02]: fe80::2485:f56d:8a8:343
+Requisitos Hyper-V:                        Extensiones de modo de monitor de VM: S铆
+                                           Se habilit贸 la virtualizaci贸n en el firmware: S铆
+                                           Traducci贸n de direcciones de segundo nivel: S铆
+                                           La prevenci贸n de ejecuci贸n de datos est谩 disponible: S铆
+Fri May 21 11:45:28     2021
 Harry Martin
-
-Configuraci IP de Windows
-
-
-Adaptador de Ethernet Ethernet:
-
-   Estado de los medios. . . . . . . . . . . : medios desconectados
-   Sufijo DNS especico para la conexi. . : 
-
-Adaptador de Ethernet Ethernet 4:
-
-   Sufijo DNS especico para la conexi. . : 
-   Vculo: direcci IPv6 local. . . : fe80::2485:f56d:8a8:343%55
-   Direcci IPv4. . . . . . . . . . . . . . : 192.168.56.1
-   M爏cara de subred . . . . . . . . . . . . : 255.255.255.0
-   Puerta de enlace predeterminada . . . . . : 
-
-Adaptador de LAN inal爉brica Conexi de 爎ea local* 1:
-
-   Estado de los medios. . . . . . . . . . . : medios desconectados
-   Sufijo DNS especico para la conexi. . : 
-
-Adaptador de LAN inal爉brica Conexi de 爎ea local* 2:
-
-   Estado de los medios. . . . . . . . . . . : medios desconectados
-   Sufijo DNS especico para la conexi. . : 
-
-Adaptador de LAN inal爉brica Wi-Fi:
-
-   Sufijo DNS especico para la conexi. . : 
-   Direcci IPv6 . . . . . . . . . . : 2802:8000:48d1:b400:31ac:e183:9f86:b676
-   Direcci IPv6 temporal. . . . . . : 2802:8000:48d1:b400:1839:9651:a9b3:8674
-   Vculo: direcci IPv6 local. . . : fe80::31ac:e183:9f86:b676%14
-   Direcci IPv4. . . . . . . . . . . . . . : 192.168.1.42
-   M爏cara de subred . . . . . . . . . . . . : 255.255.255.0
-   Puerta de enlace predeterminada . . . . . : fe80::a264:8fff:fea4:1801%14
-                                       fe80::ced4:a1ff:fe18:c8d3%14
-                                       192.168.1.1
-Fri May 21 11:28:26     2021
