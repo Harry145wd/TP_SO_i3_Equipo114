@@ -13,3 +13,12 @@ d- no, esas ramas no se actualizan salvo que las pushee
 e- al hacer el merge, olvidé usar pull entonces no se me actualizo en mi computadora
 f-git add.
   git commit -m "Commit gamma"
+  git push
+
+g-
+echo "Federico Brian Nealon" >> beta.txt
+systeminfo >> beta.txt
+date >> beta.txt
+git add .
+git commit -m "Alfa agrega los datos solicitados en punto 8"
+git push
