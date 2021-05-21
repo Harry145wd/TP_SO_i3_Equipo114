@@ -61,3 +61,73 @@ Requisitos Hyper-V:                        Extensiones de modo de monitor de VM:
                                            La prevención de ejecución de datos está disponible: Sí
 Fri May 21 11:45:28     2021
 Harry Martin
+
+Nombre de host:                            LAPTOP-F37N5ARF
+Nombre del sistema operativo:              Microsoft Windows 10 Home Single Language
+Versi▒n del sistema operativo:             10.0.19041 N/D Compilaci▒n 19041
+Fabricante del sistema operativo:          Microsoft Corporation
+Configuraci▒n del sistema operativo:       Estaci▒n de trabajo independiente
+Tipo de compilaci▒n del sistema operativo: Multiprocessor Free
+Propiedad de:                              chusenthecate@gmail.com
+Organizaci▒n registrada:                   N/D
+Id. del producto:                          00327-30774-74645-AAOEM
+Fecha de instalaci▒n original:             10/26/2020, 5:09:04 PM
+Tiempo de arranque del sistema:            5/12/2021, 6:36:50 PM
+Fabricante del sistema:                    LENOVO
+Modelo el sistema:                         81MV
+Tipo de sistema:                           x64-based PC
+Procesador(es):                            1 Procesadores instalados.
+                                           [01]: Intel64 Family 6 Model 142 Stepping 12 GenuineIntel ~1600 Mhz
+Versi▒n del BIOS:                          LENOVO ASCN48WW, 6/23/2020
+Directorio de Windows:                     C:\WINDOWS
+Directorio de sistema:                     C:\WINDOWS\system32
+Dispositivo de arranque:                   \Device\HarddiskVolume1
+Configuraci▒n regional del sistema:        es;Espa▒ol (internacional)
+Idioma de entrada:                         es-mx;Espa▒ol (M▒xico)
+Zona horaria:                              (UTC-03:00) Ciudad de Buenos Aires
+Cantidad total de memoria f▒sica:          8,072 MB
+Memoria f▒sica disponible:                 2,287 MB
+Memoria virtual: tama▒o m▒ximo:            16,290 MB
+Memoria virtual: disponible:               3,865 MB
+Memoria virtual: en uso:                   12,425 MB
+Ubicaci▒n(es) de archivo de paginaci▒n:    C:\pagefile.sys
+Dominio:                                   WORKGROUP
+Servidor de inicio de sesi▒n:              \\LAPTOP-F37N5ARF
+Revisi▒n(es):                              10 revisi▒n(es) instaladas.
+                                           [01]: KB4601554
+                                           [02]: KB4577266
+                                           [03]: KB4577586
+                                           [04]: KB4580325
+                                           [05]: KB4586864
+                                           [06]: KB4589212
+                                           [07]: KB4593175
+                                           [08]: KB4598481
+                                           [09]: KB5003173
+                                           [10]: KB5003242
+Tarjeta(s) de red:                         4 Tarjetas de interfaz de red instaladas.
+                                           [01]: Fortinet Virtual Ethernet Adapter (NDIS 6.30)
+                                                 Nombre de conexi▒n: Ethernet 2
+                                                 Estado:             Medios desconectados
+                                           [02]: Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC
+                                                 Nombre de conexi▒n: Wi-Fi
+                                                 DHCP habilitado:    S▒
+                                                 Servidor DHCP:      192.168.0.1
+                                                 Direcciones IP
+                                                 [01]: 192.168.0.125
+                                                 [02]: fe80::bcaf:f0e9:31c8:f7da
+                                           [03]: Bluetooth Device (Personal Area Network)
+                                                 Nombre de conexi▒n: Conexi▒n de red Bluetooth
+                                                 Estado:             Medios desconectados
+                                           [04]: VirtualBox Host-Only Ethernet Adapter
+                                                 Nombre de conexi▒n: Ethernet 4
+                                                 DHCP habilitado:    No
+                                                 Direcciones IP
+                                                 [01]: 192.168.56.1
+                                                 [02]: fe80::5591:b6e2:1572:3419
+Requisitos Hyper-V:                        Extensiones de modo de monitor de VM: S▒
+                                           Se habilit▒ la virtualizaci▒n en el firmware: S▒
+                                           Traducci▒n de direcciones de segundo nivel: S▒
+                                           La prevenci▒n de ejecuci▒n de datos est▒ disponible: S▒
+
+Fri 05/21/2021
+Fausto Panello
